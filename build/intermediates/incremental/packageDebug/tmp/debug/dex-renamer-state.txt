@@ -1,0 +1,4 @@
+#Tue Sep 10 14:00:12 EEST 2019
+base.0=F\:\\NanoDegree\\UdacityNanoDegreeProjects\\Material Design\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
